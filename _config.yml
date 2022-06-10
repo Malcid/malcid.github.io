@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Malcid"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a passionate gamer. Much younger than I feel. I like to develop (and hack) software. In my spare time I will learn to develop games and you can join me. This is the way!"
+  bio    : "I am a passionate gamer. Much younger than I feel. I like to hack software at work. In my spare time I will learn how to develop games and you can join me. This is the way!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
