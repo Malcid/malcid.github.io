@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: malcid_
 github_username: malcid
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Malcid"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a passionate gamer. Much younger than I feel. I like to hack software at work. In my spare time I will learn how to develop games and you can join me. This is the way!"
+  bio    : "I am a passionate gamer. I like to hack software at work. In my spare time I will learn how to develop games and you can join me. This is the way!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
