@@ -6,7 +6,7 @@ tags:
   - start
 header:
   teaser:  /assets/images/ben-neale-zpxKdH_xNSI-unsplash.jpg
-  image:  /assets/images/ben-neale-zpxKdH_xNSI-unsplash.jpg
+  image:  /assets/images/ben-neale-zpxKdH_xNSI-unsplash3.jpg
 ---
 
 Yesterday a someone said to me, that not the beginning is the hardest part of a project. It's the Perseverance. Yes, he is totally right.
