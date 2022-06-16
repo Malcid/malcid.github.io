@@ -35,12 +35,13 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # _config.yml (defaults)
-repository  : # Git username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository  : "malcid/malcid.github.io"
 comments:
-  provider  : "staticman_v2"
-  staticman:
-    branch    : "master"
-    endpoint  : https://malcid-staticman.herokuapp.com//v3/entry/github/
+  provider: "utterances"
+  utterances:
+    theme: "icy-dark" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
 
 
 
