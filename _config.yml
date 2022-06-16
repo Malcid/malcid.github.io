@@ -39,7 +39,7 @@ repository  : "malcid/malcid.github.io"
 comments:
   provider: "utterances"
   utterances:
-    theme: "icy-dark" # "github-dark"
+    theme: "github-dark" # "github-dark"
     issue_term: "pathname"
     label: "comment" # Optional - must be existing label.
 
